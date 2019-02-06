@@ -1,6 +1,6 @@
 {
   "name": "hover-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "lib/hover_js.min.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/soyto/hover-js.git"
   },
-  "keywords": [],
+  "keywords": ["Hover effect", "HTML5"],
   "author": "",
   "license": "ISC",
   "bugs": {
