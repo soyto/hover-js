@@ -35,4 +35,21 @@ use `data-hover` and `data-hover-target` attributes on Your HTML to apply the cl
 
 ## Example
 
+``` HTML
+<div class="container-fluid">
+  <div class="row vh-100 align-items-center hover-target">
+    <div class="col text-center">
+      <button class="btn btn-outline-secondary" data-hover="bg-success" data-hover-target=".hover-target">
+        Hover me 
+      </button>
+      <button class="btn btn-outline-secondary" data-hover="bg-danger" data-hover-target=".hover-target">
+        Or hover me
+      </button>
+    </div>
+  </div>
+</div>
+```
+
+
+
 https://codepen.io/soyto/pen/qgPLrr
