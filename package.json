@@ -1,6 +1,6 @@
 {
   "name": "hover-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "lib/hover_js.min.js",
   "scripts": {
@@ -26,9 +26,9 @@
     "clean-webpack-plugin": "^1.0.1",
     "eslint": "^5.13.0",
     "eslint-loader": "^2.1.2",
-    "webpack": "^4.29.1"
+    "webpack": "^4.29.1",
+    "terser-webpack-plugin": "^1.2.2"
   },
   "dependencies": {
-    "terser-webpack-plugin": "^1.2.2"
   }
 }
