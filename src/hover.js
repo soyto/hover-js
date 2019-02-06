@@ -97,5 +97,4 @@ function ancestorsMatch(element, query) {
 //Singleton mode
 let instance = new HoverPlugin();
 
-
-export const hoverPlugin = instance;
+export default instance;
